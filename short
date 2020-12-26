@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>Short Stories</title>
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href='https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/lux/bootstrap.min.css'>
+    <style>
+        * {
+            box-sizing: border-box
+        }
+
+        img {
+            vertical-align: middle;
+        }
+    </style>
+</head>
+
+<body>
+    <main role="main">
+        <div class="container p-4 mt-5 text-center">
+		<a href="https://www.gutenberg.org/files/19721/19721-h/19721-h.htm#RIP_VAN_WINKLE">Rip Van Winkle</a>
+		<br>
+           	<a href="https://xroads.virginia.edu/~Hyper/POE/telltale.html">The Tell-tale Heart</a>
+        </div>
+    </main>
+</body>
+</html>
